@@ -17,4 +17,4 @@
 
 ### GitHub Contributions Snake
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/safwenbarhoumi/safwenbarhoumi/output/github-contribution-grid-snake.svg)
