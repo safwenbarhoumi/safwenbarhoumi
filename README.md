@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safwenbarhoumi&show_icons=true&locale=en&layout=compact" alt="safwenbarhoumi" /></p>
 
-### GitHub Contributions Snake
+<em> Thanks for dropping by! Hope you have a great rest of your day </em>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DroidZed/DroidZed/output/github-contribution-grid-snake-dark.svg" /> 
