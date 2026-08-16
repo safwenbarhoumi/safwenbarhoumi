@@ -13,7 +13,7 @@
 <a href="https://www.facebook.com/profile.php?id=100004156489424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safwen barhoumi" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safwenbarhoumi&show_icons=true&locale=en&layout=compact" alt="safwenbarhoumi" /></p>
+
 
 <em> Thanks for dropping by! Hope you have a great rest of your day </em>
 
