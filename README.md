@@ -18,7 +18,7 @@
 <em> Thanks for dropping by! Hope you have a great rest of your day </em>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DroidZed/DroidZed/output/github-contribution-grid-snake-dark.svg" /> 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DroidZed/DroidZed/output/github-contribution-grid-snake.svg" /> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/safwenbarhoumi/safwenbarhoumi/output/github-contribution-grid-snake-dark.svg" /> 
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/safwenbarhoumi/safwenbarhoumi/output/github-contribution-grid-snake.svg" /> 
   <img alt="github-snake" src="https://raw.githubusercontent.com/safwenbarhoumi/safwenbarhoumi/output/github-contribution-grid-snake.svg" /> 
 </picture>
